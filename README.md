@@ -14,11 +14,6 @@ Years of Experience: The number of years the employee has worked in the relevant
 Salary: The salary of the employee.
 Here is a sample of the dataset:
 
-Years of Experience	Salary
-1	45000
-2	50000
-3	55000
-...	...
 Steps Involved
 Data Preprocessing:
 
